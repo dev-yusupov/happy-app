@@ -1,0 +1,23 @@
+.Statistics {
+    background: #FF5437;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+    text-transform: uppercase;
+    padding: 60px 70px;
+}
+
+.Statistics .Statistics-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Statistics .Statistics-item h1.Statistics-item-number {
+    font-weight: 400;
+    font-size: 96px;
+}
+.Statistics .Statistics-item p {
+    font-size: 14px;
+    line-height: 20px;
+}

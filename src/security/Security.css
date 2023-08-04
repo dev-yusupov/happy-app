@@ -1,0 +1,26 @@
+.Security {
+    display: flex;
+    flex-direction: row;
+    background-color: #F2F2F2;
+    justify-content: space-around;
+    align-items: center;
+    padding: 100px 200px 0px 200px;
+}
+.Security .SecurityText {
+    width: 420px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 36px;
+}
+
+.Security .SecurityText h1 {
+    font-size: 32px;
+    font-weight: 400;
+    font-style: normal;
+}
+.Security .SecurityText p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #666666;
+}

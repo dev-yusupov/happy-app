@@ -1,0 +1,26 @@
+.Technology {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    padding: 100px 180px 0px 180px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Technology .TechnologyText {
+    width: 420px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+
+.Technology .TechnologyText h1 {
+    font-size: 32px;
+    font-weight: 400;
+    row-gap: 0px;
+}
+
+.Technology .TechnologyText p {
+    font-size: 16px;
+    line-height: 24px;
+}

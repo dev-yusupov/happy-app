@@ -1,0 +1,44 @@
+.Testimonials {
+    display: flex;
+    flex-direction: column;
+    background: #F2F2F2;
+    padding: 100px 70px;
+    row-gap: 60px;
+}
+.Testimonials .TestimonialsText {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    row-gap: 20px;
+}
+.Testimonials .TestimonialsText h1 {
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.Comments {
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+    justify-content: space-around;
+}
+
+.Comment {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    background-color: white;
+    border-radius: 20px;
+    width: 339px;
+    padding: 30px 40px;
+}
+.Comment p {
+    line-height: 24px;
+}
+.Comment .Person {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 20px;
+}

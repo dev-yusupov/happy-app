@@ -1,0 +1,33 @@
+main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px 50px;
+}
+main .Main-Text-Section {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    row-gap: 20px;
+}
+main .Main-Text-Section h1 {
+    font-size: 54px;
+    font-weight: 200;
+    line-height: 54.4px;
+}
+main .Main-Text-Section p {
+    font-size: 16px;
+    line-height: 24px;
+}
+main .Main-Text-Section img {
+    width: 192px;
+}
+main .Main-Text-Section-Button {
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+}
+main .Poster img {
+    width: 376px;
+}
