@@ -18,3 +18,14 @@
     column-gap: 50px;
     margin-top: 50px;
 }
+
+@media (max-width: 796px) {
+    .Features {
+        text-align: center;
+    }
+    .Features .Top-Section {
+        display: flex;
+        flex-direction: column;
+        row-gap: 30px;
+    }
+}

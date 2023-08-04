@@ -21,3 +21,9 @@
     font-size: 14px;
     line-height: 20px;
 }
+
+@media (max-width: 796px) {
+    .Statistics .Statistics-item h1.Statistics-item-number {
+        font-size: 50px;
+    }
+}

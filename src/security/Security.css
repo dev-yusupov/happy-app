@@ -24,3 +24,11 @@
     line-height: 24px;
     color: #666666;
 }
+
+@media (max-width: 796px) {
+    .Security {
+        flex-direction: column-reverse;
+        text-align: center;
+        row-gap: 30px;
+    }
+}

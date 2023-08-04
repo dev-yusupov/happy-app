@@ -16,6 +16,11 @@ const Navbar = () => {
                 <li className='navbar-item'><a href='/'>Instruction</a></li>
                 <Button title={'Get template'} />
             </ul>
+            <div className='Hamburger'>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
         </navbar>
     )
 }

@@ -52,3 +52,10 @@
     color: white;
     text-transform: uppercase;
 }
+
+@media (max-width: 796px) {
+    .Price {
+        flex-direction: column;
+        row-gap: 30px;
+    }
+}

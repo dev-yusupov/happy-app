@@ -31,3 +31,15 @@ main .Main-Text-Section-Button {
 main .Poster img {
     width: 376px;
 }
+
+@media (max-width: 796px) {
+    main {
+        display: flex;
+        flex-direction: column;
+        row-gap: 50px;
+    }
+    main .Main-Text-Section {
+        align-items: center;
+        text-align: center;
+    }
+}
