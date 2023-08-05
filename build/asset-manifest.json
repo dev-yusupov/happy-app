@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/happy-app/static/css/main.01b69f74.css",
-    "main.js": "/happy-app/static/js/main.13a1fc96.js",
+    "main.css": "/happy-app/static/css/main.37b77477.css",
+    "main.js": "/happy-app/static/js/main.7f553d7d.js",
     "static/js/787.28cb0dcd.chunk.js": "/happy-app/static/js/787.28cb0dcd.chunk.js",
     "static/media/phone-technology.png": "/happy-app/static/media/phone-technology.b70062a1e744b31c2380.png",
     "static/media/phone.png": "/happy-app/static/media/phone.3025421db43e4c256b2f.png",
@@ -11,12 +11,13 @@
     "static/media/phone-black.png": "/happy-app/static/media/phone-black.70c89f9529ac07e67ed7.png",
     "static/media/happy-vertical.png": "/happy-app/static/media/happy-vertical.a362711cb8d439d4152b.png",
     "index.html": "/happy-app/index.html",
-    "main.01b69f74.css.map": "/happy-app/static/css/main.01b69f74.css.map",
-    "main.13a1fc96.js.map": "/happy-app/static/js/main.13a1fc96.js.map",
+    "static/media/x-solid.svg": "/happy-app/static/media/x-solid.5e82a8c15028d192a6f26fdf13c43158.svg",
+    "main.37b77477.css.map": "/happy-app/static/css/main.37b77477.css.map",
+    "main.7f553d7d.js.map": "/happy-app/static/js/main.7f553d7d.js.map",
     "787.28cb0dcd.chunk.js.map": "/happy-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01b69f74.css",
-    "static/js/main.13a1fc96.js"
+    "static/css/main.37b77477.css",
+    "static/js/main.7f553d7d.js"
   ]
 }
